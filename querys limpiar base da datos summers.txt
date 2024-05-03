@@ -1,0 +1,14 @@
+query limpiara base de datos summers
+
+truncate  cliente0;
+truncate  comentarios_reserva;
+truncate  cxp_proveedores;
+truncate  historial_cambios;
+truncate  item_pasajeros_reserva;
+truncate  liquidacion_reserva;
+truncate  productos;
+truncate  recibos;
+truncate  recibos_proveedores;
+truncate  reservas;
+truncate  cxp_proveedores_eliminadas;
+
